@@ -44,15 +44,13 @@ public class VacationPackageCostEstimation {
             return;
         }
 
-        // Apply group discounts
         double totalCost = baseCost * numTravelers;
         if (numTravelers > 4 && numTravelers <= 10) {
-            totalCost *= 0.90; // 10% discount
+            totalCost *= 0.90;
         } else if (numTravelers > 10) {
-            totalCost *= 0.80; // 20% discount
+            totalCost *= 0.80;
         }
 
-        // Check vacation duration and apply penalty or promotion
         if (duration < 7) {
             totalCost += 200.0; // Penalty fee
         } else if (duration > 30 || numTravelers == 2) {
