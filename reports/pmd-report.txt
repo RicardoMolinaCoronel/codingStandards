@@ -1,0 +1,6 @@
+src/main/java/VacationPackageCostEstimation.java:35:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/VacationPackageCostEstimation.java:37:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/VacationPackageCostEstimation.java:39:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/VacationPackageCostEstimation.java:69:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/VacationPackageCostEstimation.java:71:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/VacationPackageCostEstimation.java:73:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
